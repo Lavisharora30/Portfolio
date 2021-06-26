@@ -1,5 +1,5 @@
 # Portfolio
 
 
-## live at 
-WEBSITE (https://lavisharora30.github.io/Portfolio/)
+Checkout live 
+(https://lavisharora30.github.io/Portfolio/)
